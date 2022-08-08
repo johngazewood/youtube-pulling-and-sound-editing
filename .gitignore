@@ -12,3 +12,4 @@ Cargo.lock
 
 **/api_key.txt
 
+**/target
