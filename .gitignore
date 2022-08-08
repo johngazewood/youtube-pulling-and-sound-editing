@@ -11,5 +11,6 @@ Cargo.lock
 
 
 **/api_key.txt
-
+**/*.swp
 **/target
+
